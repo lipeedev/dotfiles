@@ -1,0 +1,39 @@
+[global]
+    font = FiraCode NerdFont 9
+    markup = full
+    format = "<b>%a</b>\n<b>%s</b>\n%b"
+    alignment = center
+    follow = keyboard
+    geometry = "300x10-30+20"
+    ignore_newline = no
+    frame_color = "#89b4fa"
+    separator_color= frame
+    separator_height = 2
+    gap_size = 5
+
+    text_icon_padding = 10
+    icon_position = left
+    icon_corner_radius = 15
+    min_icon_size = 48
+    max_icon_size = 128
+    startup_notification = false
+
+    browser = /usr/bin/google-chrome -new-tab
+
+[shortcuts]
+    close_all = mod4+shift+n
+    history = mod4+n
+
+[urgency_low]
+background = "#1e1e2e"
+foreground = "#cdd6f4"
+
+[urgency_normal]
+background = "#1e1e2e"
+foreground = "#cdd6f4"
+
+[urgency_critical]
+background = "#1e1e2e"
+foreground = "#cdd6f4"
+frame_color = "#fab387"
+
