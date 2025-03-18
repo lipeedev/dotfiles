@@ -2,5 +2,5 @@
 
 _My personal Linux configuration files._
 
-- install `bspwm` `sxhkd` `kitty` `dunst` `polybar` `rofi` `polywins (wmctrl)`  `JetBrains Nerd Font`
+- install `bspwm` `sxhkd` `kitty` `dunst` `polybar` `rofi` `polywins (wmctrl)`  `JetBrains Nerd Font` `picom` `feh`
 - Copy all files to your *$HOME/.config* directory
